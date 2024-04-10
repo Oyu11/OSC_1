@@ -1,0 +1,17 @@
+#include <iostream>
+
+int main() {
+    int N;
+
+    std::cout << "N toog oruul: ";
+    std::cin >> N;
+
+
+    for (int i = 1; i <= N ; ++i) {
+            std::cout << "zail pisda ";
+
+    };
+
+    return -1;
+};
+
